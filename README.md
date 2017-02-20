@@ -2,7 +2,9 @@
 
 use with i3wm
 
-[logo]: https://raw.githubusercontent.com/oxfff/i3core/master/newlayout.png "layout"
+![alt text][layout]
+
+[layout]:https://raw.githubusercontent.com/oxfff/i3core/master/newlayout.png "layout"
 
 
 
